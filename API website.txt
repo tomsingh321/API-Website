@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<!--
+	Galaxy Commerce by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+<title>Galaxy Commerce by HTML5 UP</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body class="landing is-preload">
+<div id="page-wrapper">
+
+<!-- Header -->
+<header id="header" class="alt">
+<h1><a href="index.html">Galaxy Commerce</a> by HTML5 UP</h1>
+<nav id="nav">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li>
+<a href="#" class="icon fa-angle-down">Layouts</a>
+<ul>
+<li><a href="generic.html">Generic</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="elements.html">Elements</a></li>
+<li>
+<a href="#">Submenu</a>
+<ul>
+<li><a href="#">Option One</a></li>
+<li><a href="#">Option Two</a></li>
+<li><a href="#">Option Three</a></li>
+<li><a href="#">Option Four</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#" class="button">Sign Up</a></li>
+</ul>
+</nav>
+</header>
+
+<!-- Banner -->
+<section id="banner">
+<h2>Galaxy Commerce</h2>
+<p>An online digital commerce that provides best quality technology products.</p>
+<ul class="actions special">
+<li><a href="#" class="button primary">Sign Up</a></li>
+<li><a href="#" class="button">Learn More</a></li>
+</ul>
+</section>
+
+<!-- Main -->
+<section id="main" class="container">
+
+<section class="box special">
+<header class="major">
+<h2>Providing the best  up to date software and hardware products.
+<br />
+</h2>
+<p>From small gadets to computers and laptios, Galaxy Commerce is a global enterprise that cherishes on quality service and customer satisfaction.</p>
+</header>
+<span class="image featured"><img src="https://ak5.picdn.net/shutterstock/videos/14998975/thumb/4.jpg" alt="" /></span>
+</section>
+
+<section class="box special features">
+<div class="features-row">
+<section>
+<span class="icon major fa-bolt accent2"></span>
+<h3>Laptops</h3>
+<p>The most sophiticated laptops and notebooks with the up to date industry specifications.</p>
+</section>
+<section>
+<span class="icon major fa-area-chart accent3"></span>
+<h3>Software</h3>
+<p>Operating system software available in many different formats, such as Linux, Windows, and IOS.</p>
+</section>
+</div>
+<div class="features-row">
+<section>
+<span class="icon major fa-cloud accent4"></span>
+<h3>External and Internal Harddrives</h3>
+<p>Storage components, from external to internal, available in various storage space.</p>
+</section>
+<section>
+<span class="icon major fa-lock accent5"></span>
+<h3>External Power Adapters and Banks</h3>
+<p>Power banks, ranging from small to large.</p>
+</section>
+</div>
+</section>
+
+<div class="row">
+<div class="col-6 col-12-narrower">
+
+<section class="box special">
+<span class="image featured"><img src="http://www.globalweatherclimatecenter.com/uploads/7/0/9/4/70941227/solar-panels_orig.jpg" alt="" /></span>
+<h3>Solar Generators</h3>
+<p>Compact and subcompact solar panels and power boxes.</p>
+<ul class="actions special">
+<li><a href="#" class="button alt">Learn More</a></li>
+</ul>
+</section>
+
+</div>
+<div class="col-6 col-12-narrower">
+
+<section class="box special">
+<span class="image featured"><img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/110925133/original/5c6a322fbfe23a9b7df9305b0abb8ac36a3204d7/configure-network-switches-routers-or-firewalls.jpg" alt="" /></span>
+<h3>Switches, Routers, and Firewalls</h3>
+<p>Available in different models to meet your current and future networking demands.</p>
+<ul class="actions special">
+	<li><a href="#" class="button alt">Learn More</a></li>
+</ul>
+</section>
+
+</div>
+</div>
+
+</section>
+
+<!-- CTA -->
+<section id="cta">
+
+<h2>Sign up for a free account</h2>
+<p>Galaxy Commerce is a registered trademark and a Limited Liability Corporation.</p>
+
+<form>
+<div class="row gtr-50 gtr-uniform">
+<div class="col-8 col-12-mobilep">
+<input type="email" name="email" id="email" placeholder="Email Address" />
+</div>
+<div class="col-4 col-12-mobilep">
+<input type="submit" value="Sign Up" class="fit" />
+</div>
+</div>
+</form>
+
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+<ul class="icons">
+<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+</ul>
+<ul class="copyright">
+<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+</ul>
+</footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.dropotron.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
